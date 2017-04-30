@@ -14,6 +14,19 @@ h1.header1{
   color: white;
   height:70px;
 }
+
+h1.header2{
+  font-family:helvetica;
+  font-size:32px;
+  font-weight:bold;
+}
+
+h1.header3{
+  font-family:helvetica;
+  font-size:23px;
+  font-weight:bold;
+}
+
 p.nav-section{
   font-family:helvetica;
   font-size:18px;
@@ -31,4 +44,9 @@ a{
 .background-image2{
   background-image: url("../images/the-flatiron-building.png");
   height:29px;
+}
+
+p.normal{
+  font-family:helvetica;
+  font-size:14px;
 }
