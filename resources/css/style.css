@@ -5,7 +5,6 @@ body.all{
 #background-image1{
   background-image: url("../images/the-flatiron-building.png");
   height:297px;
-
 }
 
 h1.header1{
@@ -23,4 +22,13 @@ p.nav-section{
 
 a{
   color:inherit;
+}
+
+#background-white{
+  background-color:white;
+}
+
+.background-image2{
+  background-image: url("../images/the-flatiron-building.png");
+  height:29px;
 }
